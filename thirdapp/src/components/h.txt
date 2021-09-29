@@ -1,0 +1,1 @@
+css modules, we can attach css files to css components
